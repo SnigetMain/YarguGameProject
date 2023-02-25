@@ -1,8 +1,11 @@
 # depslib dependency file v1.0
-1514140588 source:c:\users\user\desktop\gameproject\main\main.cpp
+1677343309 source:c:\users\user\desktop\gameproject\main\main.cpp
+	<SOIL2.h>
 	<GLUT/glut.h>
 	<GL/glut.h>
 	<stdlib.h>
+	<iostream>
+	<vector>
 
 1426338928 c:\program files (x86)\codeblocks\mingw\freeglut\include\gl\glut.h
 	"freeglut_std.h"
@@ -17,4 +20,25 @@
 	<GL/gl.h>
 	<GL/glu.h>
 	<stdlib.h>
+
+1675018027 c:\users\user\desktop\gameproject\main\libs\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1673494441 c:\users\user\desktop\gameproject\main\soil2\soil2.h
+
+1673494441 c:\users\user\desktop\gameproject\main\soil2.h
 

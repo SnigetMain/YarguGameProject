@@ -33,6 +33,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/freeglut/include" />
+			<Add directory="SOIL2" />
 		</Compiler>
 		<Linker>
 			<Add library="freeglut" />
@@ -42,6 +43,7 @@
 			<Add library="gdi32" />
 			<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/freeglut/lib" />
 		</Linker>
+		<Unit filename="SOIL2/SOIL2.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
